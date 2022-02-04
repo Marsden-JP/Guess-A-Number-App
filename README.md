@@ -24,9 +24,8 @@ A step-by-step instructions is listed in play on the application.
 ## How to install & run locally
 
 1. Run `Guess-A-Number-App https://github.com/Marsden-JP/Guess-A-Number-App` and follow the instruction
-2. `make requirements` - Installs all the requirements needed
-3. Install npm using `npm install`
-4. Start expo using `expo start`
+2. Install npm using `npm install`
+3. Start expo using `expo start`
 4. Select `Run on Android device/emulator` located on the left bar in the `localhost:19002` window of your web browser
-5. Application will appear in your `Android Emulator`
+4. Application will appear in your `Android Emulator`
 
