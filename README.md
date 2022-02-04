@@ -8,17 +8,17 @@ A step-by-step instructions is listed in play on the application.
 
 ## Requirements
 
-[Android-Emulator] (https://docs.expo.dev/workflow/android-studio-emulator/)
+- [Android-Emulator] (https://docs.expo.dev/workflow/android-studio-emulator/)
 
 
 ## Dependencies
-[expo] (https://docs.expo.dev/get-started/installation/)
-[expo-status-bar] (https://www.npmjs.com/package/expo-status-bar)
-[react] (https://www.npmjs.com/package/react)
-[react-dom] (https://www.npmjs.com/package/react-dom)
-[react-native] (https://www.npmjs.com/package/react-native)
-[react-native-web] (https://www.npmjs.com/package/react-native-web)
-[expo-app-loading] (https://www.npmjs.com/package/expo-app-loading)
+- [expo] (https://docs.expo.dev/get-started/installation/)
+- [expo-status-bar] (https://www.npmjs.com/package/expo-status-bar)
+- [react] (https://www.npmjs.com/package/react)
+- [react-dom] (https://www.npmjs.com/package/react-dom)
+- [react-native] (https://www.npmjs.com/package/react-native)
+- [react-native-web] (https://www.npmjs.com/package/react-native-web)
+- [expo-app-loading] (https://www.npmjs.com/package/expo-app-loading)
 
 ## How to install & run locally
 
