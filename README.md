@@ -27,5 +27,5 @@ A step-by-step instructions is listed in play on the application.
 2. Install npm using `npm install`
 3. Start expo using `expo start`
 4. Select `Run on Android device/emulator` located on the left bar in the `localhost:19002` window of your web browser
-4. Application will appear in your `Android Emulator`
+5. Application will appear in your `Android Emulator`
 
