@@ -23,3 +23,5 @@ A step-by-step instructions is listed in play on the application.
 4. Select `Run on Android device/emulator` located on the left bar in the `localhost:19002` window of your web browser
 5. Application will appear in your `Android Emulator`
 
+Contact details: Marsden11.james@gmail.com
+
