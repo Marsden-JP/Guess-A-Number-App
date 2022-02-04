@@ -12,14 +12,8 @@ A step-by-step instructions is listed in play on the application.
 
 
 ## Dependencies
-- [expo](https://docs.expo.dev/get-started/installation/)
-- [expo](https://docs.expo.dev/get-started/installation)   
-- [expo-status-bar](https://www.npmjs.com/package/expo-status-bar)
-- [react](https://www.npmjs.com/package/react)
-- [react-dom](https://www.npmjs.com/package/react-dom)
-- [react-native](https://www.npmjs.com/package/react-native)
-- [react-native-web](https://www.npmjs.com/package/react-native-web)
-- [expo-app-loading](https://www.npmjs.com/package/expo-app-loading)
+- [react](https://reactjs-bot.github.io/react/docs/installation.html)
+- [react-native](https://reactnative.dev/docs/0.60/enviroment-setup)
 
 ## How to install & run locally
 
